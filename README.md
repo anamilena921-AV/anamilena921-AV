@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ana Milena — Asistente Virtual Estratégica
+Automatización de procesos • Organización digital • Contenidos que convierten
 
-<!--
-**anamilena921-AV/anamilena921-AV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Ayudo a coaches, terapeutas y negocios conscientes a ahorrar tiempo y vender más con:
+- Automatizaciones (Zapier, Make, Google Apps Script)
+- Organización total (Gmail, Calendar, Drive, SOPs)
+- Contenido y lanzamientos (YouTube, Canva, CapCut)
 
-Here are some ideas to get you started:
+🚀 ¿Hablamos?
+[Agenda una llamada] (https://calendar.app.google/MNJif8k6hLSnSVQN6)
+[LinkedIn] (https://www.linkedin.com/in/ana-milena-asistente-virtual)
+[Ko-fi] (https://ko-fi.com/despuesdelsilencio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- Servicios AV Estratégicos → procesos + tarifas
+- Automatizaciones GAS/Zapier → scripts reales y blueprints
+- Después del Silencio → guiones, SEO y thumbnails
+- GPTs emocionales → diseño, prompts y bundle
+
+> “Procesos claros, resultados medibles, tiempo liberado.”
