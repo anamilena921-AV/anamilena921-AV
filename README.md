@@ -6,8 +6,10 @@ Automatización de procesos • Organización digital • Contenidos que convier
 - Organización total (Gmail, Calendar, Drive, SOPs)
 - Contenido y lanzamientos (YouTube, Canva, CapCut)
 
-🚀 ¿Hablamos?
-[Agenda una llamada](https://calendar.app.google/MNJif8k6hLSnSVQN6) [LinkedIn](https://www.linkedin.com/in/ana-milena-asistente-virtual) [Ko-fi](https://ko-fi.com/despuesdelsilencio)
+**🚀 ¿Hablamos?**
+[Agenda una llamada](https://calendar.app.google/MNJif8k6hLSnSVQN6)
+[LinkedIn](https://www.linkedin.com/in/ana-milena-asistente-virtual) 
+[Ko-fi](https://ko-fi.com/despuesdelsilencio)
 
 ## Proyectos destacados
 - Servicios AV Estratégicos → procesos + tarifas
